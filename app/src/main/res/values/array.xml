@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Level">
+        <item>Individual</item>
+        <item>Hostel</item>
+        <item>Institute</item>
+    </string-array>
+
+    <string-array name="Individual_array">
+        <item>Electricity</item>
+        <item>LanPort</item>
+        <item>Funds</item>
+        <item>Harrassment</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Hostel_array">
+        <item>Maintenance</item>
+        <item>Cultural</item>
+        <item>MessRelated</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="Institute_array">
+        <item>UGSection</item>
+        <item>PGSection</item>
+        <item>BRCAClub</item>
+        <item>BSAClub</item>
+        <item>BSPClub</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,266 @@
+[
+    {
+        "outputFile": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 76,
+                    "endOffset": 127
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\fonts.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1206,
+                        "endColumn": 76,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 132,
+                    "endColumn": 76,
+                    "endOffset": 204
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\fonts.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 76,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 209,
+                    "endColumn": 72,
+                    "endOffset": 277
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\fonts.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1049,
+                        "endColumn": 72,
+                        "endOffset": 1117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 282,
+                    "endColumn": 73,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\fonts.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1284,
+                        "endColumn": 73,
+                        "endOffset": 1353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 80,
+                    "endOffset": 432
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\fonts.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 80,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 437,
+                    "endColumn": 79,
+                    "endOffset": 512
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\fonts.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1123,
+                        "endColumn": 79,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 517,
+                    "endColumn": 24,
+                    "endOffset": 537
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 31,
+                        "endOffset": 876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 542,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1192
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2783,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 3441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1197,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1814
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4466,
+                        "endLine": 85,
+                        "endColumn": 12,
+                        "endOffset": 5091
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1819,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2585
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2590,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 3386
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3500,
+                        "endLine": 72,
+                        "endColumn": 12,
+                        "endOffset": 4305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3391,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4045
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5161,
+                        "endLine": 96,
+                        "endColumn": 12,
+                        "endOffset": 5823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4050,
+                    "endLine": 65,
+                    "endColumn": 12,
+                    "endOffset": 4865
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values-v16\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1809,
+                        "endLine": 46,
+                        "endColumn": 12,
+                        "endOffset": 2634
+                    }
+                }
+            }
+        ]
+    }
+]

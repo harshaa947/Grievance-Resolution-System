@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\card_thumbnail_overlay_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\card_thumbnail_overlay_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_card_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\list_card_undo_materialmobile_message.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\list_card_undo_materialmobile_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\list_card_undo_message.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\list_card_undo_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_cardwithlist_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_cardwithlist_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\base_header_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\base_header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\card_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\base_withlist_progress.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\base_withlist_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_card_thumbnail_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\card_base_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\card_base_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\inner_base_main_cardwithlist.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\inner_base_main_cardwithlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_list_card_thumbnail_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_list_card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\list_card_undo_material_message.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\list_card_undo_material_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\card_thumbnail_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_inner_base_header.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_inner_base_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\inner_base_expand.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\inner_base_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\inner_base_main.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\inner_base_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_list_card_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_list_card_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\base_shadow_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\base_shadow_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_base_header_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_base_header_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\inner_base_header.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\inner_base_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\list_card_thumbnail_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\list_card_thumbnail_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_inner_base_main_cardwithlist.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_inner_base_main_cardwithlist.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_base_thumbnail_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_base_thumbnail_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\card_undo_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\card_undo_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_inner_base_main.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_inner_base_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\card_overlay_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\card_overlay_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\base_withlist_empty.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\base_withlist_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\native_inner_base_expand.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\native_inner_base_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\base_list_expandable_children_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\base_list_expandable_children_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\base_thumbnail_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\base_thumbnail_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\base_section_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\base_section_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\layout\\list_card_layout.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\layout\\list_card_layout.xml"
+    }
+]

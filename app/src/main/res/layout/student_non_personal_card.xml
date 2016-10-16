@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id = "@+id/student_non_personal_card_image" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id = "@+id/student_non_personal_card_description"
+        android:textSize="@dimen/card_main_content_native_simple_title_text_size"/>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/tag_imageview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/tag"
+            android:textSize="0dp"
+            android:layout_margin="4dp"
+            android:background="@null"/>
+
+        <TextView
+            android:id="@+id/tag_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimaryDark"/>
+
+        <ImageView
+            android:id="@+id/upvote_imageview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/thumb_up"
+            android:textSize="0dp"
+            android:layout_margin="4dp"
+            android:background="@null"/>
+
+        <TextView
+            android:id="@+id/upvote_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimaryDark"/>
+
+        <ImageView
+            android:id="@+id/downvote_imageview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/thumb_down"
+            android:textSize="0dp"
+            android:layout_margin="4dp"
+            android:background="@null"/>
+
+        <TextView
+            android:id="@+id/downvote_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"
+            android:textColor="@color/colorPrimaryDark"/>
+
+    </LinearLayout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal" android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <CheckBox
+            android:id="@+id/tag_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/tag_toggle"
+            android:textSize="0dp"
+            android:layout_margin="15dp"
+            android:background="@null"/>
+
+        <CheckBox
+            android:id="@+id/upvote_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/thumb_up_toggle"
+            android:textSize="0dp"
+            android:layout_margin="15dp"
+            android:background="@null"/>
+
+        <CheckBox
+            android:id="@+id/downvote_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@drawable/thumb_down_toggle"
+            android:textSize="0dp"
+            android:layout_margin="15dp"
+            android:background="@null"/>
+
+        <TextView
+            android:id="@+id/non_personal_comment_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorPrimary"
+            android:text="Comment"
+            android:textSize="20dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:background="@null"
+            android:layout_margin="15dp"
+            android:layout_gravity="center"
+            android:clickable="true"/>
+
+    </LinearLayout>
+
+</LinearLayout>

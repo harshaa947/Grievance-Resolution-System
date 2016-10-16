@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\card_menu_button_overflow_material.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\card_menu_button_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\card_foreground_kitkat_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\card_foreground_kitkat_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\card_kitkat_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\card_kitkat_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\card_menu_button_expand.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\card_menu_button_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\card_menu_button_expand_material.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\card_menu_button_expand_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\card_menu_button_expand_material_animator.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\card_menu_button_expand_material_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\card_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\card_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\card_foreground_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\card_foreground_selector.xml"
+    }
+]

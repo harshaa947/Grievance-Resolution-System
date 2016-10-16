@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_expand_card_dark_normal.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_menu_expand_card_dark_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_less_grey600_24dp.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_expand_less_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_expand_card_dark_pressed.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_menu_expand_card_dark_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_overflow_card_dark_pressed.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_menu_overflow_card_dark_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_less_black_24dp.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_expand_less_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_more_vert_black_24dp.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_more_vert_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_more_grey600_24dp.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_expand_more_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_overflow_card_dark_normal.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_menu_overflow_card_dark_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_overflow_card_rounded_dark_normal.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_menu_overflow_card_rounded_dark_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_expand_more_black_24dp.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_expand_more_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_menu_overflow_card_rounded_dark_pressed.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_menu_overflow_card_rounded_dark_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_chevron_right_grey600_24dp.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_chevron_right_grey600_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_more_vert_grey600_24dp.png",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable-hdpi\\ic_more_vert_grey600_24dp.png"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_shadow.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_expand.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_menu_button_expand.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background_kitkat_card.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\pressed_background_kitkat_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_foreground_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_foreground_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_overflow.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_menu_button_overflow.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_background_card.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\activated_background_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_overflow_material.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_menu_button_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_kitkat_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_kitkat_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_foreground_kitkat_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_foreground_kitkat_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_background.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_background_kitkat_card.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\activated_background_kitkat_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_expand_material_animator.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_menu_button_expand_material_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\native_card_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\native_card_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_foreground_kitkat_card.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\activated_foreground_kitkat_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_rounded_overflow_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_menu_button_rounded_overflow_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_expand_material.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_menu_button_expand_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\activated_foreground_card.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\activated_foreground_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_menu_button_rounded_overflow.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_menu_button_rounded_overflow.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed_background_card.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\pressed_background_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_multichoice_selector.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_multichoice_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\debug\\drawable\\card_undo.xml",
+        "source": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\drawable\\card_undo.xml"
+    }
+]

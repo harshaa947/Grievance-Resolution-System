@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_complaints"
+            android:icon="@drawable/alert"
+            android:title="Complaints"
+            android:checked="true" />
+      <item
+            android:id="@+id/nav_notifications"
+            android:icon="@drawable/message_alert"
+            android:title="Notifications" />
+
+    </group>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/power_black"
+        android:title="Logout" />
+
+</menu>

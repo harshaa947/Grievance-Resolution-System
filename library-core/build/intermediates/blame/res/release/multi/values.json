@@ -1,0 +1,4177 @@
+[
+    {
+        "outputFile": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 48,
+                        "endOffset": 1349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 55,
+                    "endOffset": 155
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1477,
+                        "endColumn": 55,
+                        "endOffset": 1528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 160,
+                    "endColumn": 46,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 872,
+                        "endColumn": 46,
+                        "endOffset": 914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 52,
+                    "endOffset": 255
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 975,
+                        "endColumn": 52,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 260,
+                    "endColumn": 53,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 920,
+                        "endColumn": 53,
+                        "endOffset": 969
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 80,
+                    "endOffset": 390
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1715,
+                        "endColumn": 80,
+                        "endOffset": 1791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 395,
+                    "endColumn": 70,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1643,
+                        "endColumn": 70,
+                        "endOffset": 1709
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 57,
+                    "endOffset": 519
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1163,
+                        "endColumn": 57,
+                        "endOffset": 1216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 524,
+                    "endColumn": 61,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 61,
+                        "endOffset": 1412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endColumn": 68,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1534,
+                        "endColumn": 68,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 75,
+                    "endOffset": 726
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 75,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 731,
+                    "endColumn": 87,
+                    "endOffset": 814
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1878,
+                        "endColumn": 87,
+                        "endOffset": 1961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 819,
+                    "endColumn": 77,
+                    "endOffset": 892
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1799,
+                        "endColumn": 77,
+                        "endOffset": 1872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 897,
+                    "endColumn": 48,
+                    "endOffset": 941
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1255,
+                        "endColumn": 48,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 946,
+                    "endColumn": 55,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1420,
+                        "endColumn": 55,
+                        "endOffset": 1471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 64,
+                    "endOffset": 1062
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2006,
+                        "endColumn": 64,
+                        "endOffset": 2066
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1067,
+                    "endColumn": 71,
+                    "endOffset": 1134
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2072,
+                        "endColumn": 71,
+                        "endOffset": 2139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1139,
+                    "endColumn": 53,
+                    "endOffset": 1188
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 53,
+                        "endOffset": 1157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1193,
+                    "endColumn": 72,
+                    "endOffset": 1261
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors_undo.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 953,
+                        "endColumn": 72,
+                        "endOffset": 1021
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1266,
+                    "endColumn": 66,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\colors_undo.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 66,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 60,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endColumn": 61,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 61,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1456,
+                    "endColumn": 61,
+                    "endOffset": 1513
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 61,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1518,
+                    "endColumn": 63,
+                    "endOffset": 1577
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 63,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3022,
+                    "endColumn": 60,
+                    "endOffset": 3078
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 962,
+                        "endColumn": 60,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3083,
+                    "endColumn": 66,
+                    "endOffset": 3145
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 8150,
+                        "endColumn": 66,
+                        "endOffset": 8212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3150,
+                    "endColumn": 70,
+                    "endOffset": 3216
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 159,
+                        "startColumn": 4,
+                        "startOffset": 7861,
+                        "endColumn": 70,
+                        "endOffset": 7927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3221,
+                    "endColumn": 71,
+                    "endOffset": 3288
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 160,
+                        "startColumn": 4,
+                        "startOffset": 7933,
+                        "endColumn": 71,
+                        "endOffset": 8000
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3293,
+                    "endColumn": 69,
+                    "endOffset": 3358
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 162,
+                        "startColumn": 4,
+                        "startOffset": 8077,
+                        "endColumn": 69,
+                        "endOffset": 8142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3363,
+                    "endColumn": 69,
+                    "endOffset": 3428
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 8006,
+                        "endColumn": 69,
+                        "endOffset": 8071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3433,
+                    "endColumn": 52,
+                    "endOffset": 3481
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 908,
+                        "endColumn": 52,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3486,
+                    "endColumn": 67,
+                    "endOffset": 3549
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4063,
+                        "endColumn": 67,
+                        "endOffset": 4126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3554,
+                    "endColumn": 65,
+                    "endOffset": 3615
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3996,
+                        "endColumn": 65,
+                        "endOffset": 4057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3620,
+                    "endColumn": 66,
+                    "endOffset": 3682
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 4132,
+                        "endColumn": 66,
+                        "endOffset": 4194
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3687,
+                    "endColumn": 64,
+                    "endOffset": 3747
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3930,
+                        "endColumn": 64,
+                        "endOffset": 3990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3752,
+                    "endColumn": 64,
+                    "endOffset": 3812
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1122,
+                        "endColumn": 64,
+                        "endOffset": 1182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3817,
+                    "endColumn": 61,
+                    "endOffset": 3874
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1188,
+                        "endColumn": 61,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3879,
+                    "endColumn": 62,
+                    "endOffset": 3937
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1251,
+                        "endColumn": 62,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3942,
+                    "endColumn": 61,
+                    "endOffset": 3999
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 61,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4004,
+                    "endColumn": 56,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 5880,
+                        "endColumn": 56,
+                        "endOffset": 5932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endColumn": 71,
+                    "endOffset": 4128
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 6359,
+                        "endColumn": 71,
+                        "endOffset": 6426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4133,
+                    "endColumn": 69,
+                    "endOffset": 4198
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 6146,
+                        "endColumn": 69,
+                        "endOffset": 6211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4203,
+                    "endColumn": 70,
+                    "endOffset": 4269
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 6217,
+                        "endColumn": 70,
+                        "endOffset": 6283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4274,
+                    "endColumn": 68,
+                    "endOffset": 4338
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 6289,
+                        "endColumn": 68,
+                        "endOffset": 6353
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4343,
+                    "endColumn": 60,
+                    "endOffset": 4399
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 6497,
+                        "endColumn": 60,
+                        "endOffset": 6553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4404,
+                    "endColumn": 61,
+                    "endOffset": 4461
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 6434,
+                        "endColumn": 61,
+                        "endOffset": 6491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4466,
+                    "endColumn": 74,
+                    "endOffset": 4536
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 6633,
+                        "endColumn": 74,
+                        "endOffset": 6703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4541,
+                    "endColumn": 75,
+                    "endOffset": 4612
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 6709,
+                        "endColumn": 75,
+                        "endOffset": 6780
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4617,
+                    "endColumn": 72,
+                    "endOffset": 4685
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 6559,
+                        "endColumn": 72,
+                        "endOffset": 6627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4690,
+                    "endColumn": 67,
+                    "endOffset": 4753
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 5938,
+                        "endColumn": 67,
+                        "endOffset": 6001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4758,
+                    "endColumn": 68,
+                    "endOffset": 4822
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 6007,
+                        "endColumn": 68,
+                        "endOffset": 6071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4827,
+                    "endColumn": 65,
+                    "endOffset": 4888
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 6077,
+                        "endColumn": 65,
+                        "endOffset": 6138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4893,
+                    "endColumn": 61,
+                    "endOffset": 4950
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2810,
+                        "endColumn": 61,
+                        "endOffset": 2867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4955,
+                    "endColumn": 70,
+                    "endOffset": 5021
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2873,
+                        "endColumn": 70,
+                        "endOffset": 2939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5026,
+                    "endColumn": 63,
+                    "endOffset": 5085
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2683,
+                        "endColumn": 63,
+                        "endOffset": 2742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5090,
+                    "endColumn": 62,
+                    "endOffset": 5148
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 2555,
+                        "endColumn": 62,
+                        "endOffset": 2613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5153,
+                    "endColumn": 62,
+                    "endOffset": 5211
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2619,
+                        "endColumn": 62,
+                        "endOffset": 2677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5216,
+                    "endColumn": 60,
+                    "endOffset": 5272
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2748,
+                        "endColumn": 60,
+                        "endOffset": 2804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5277,
+                    "endColumn": 58,
+                    "endOffset": 5331
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1913,
+                        "endColumn": 58,
+                        "endOffset": 1967
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5336,
+                    "endColumn": 67,
+                    "endOffset": 5399
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3017,
+                        "endColumn": 67,
+                        "endOffset": 3080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 5404,
+                    "endColumn": 68,
+                    "endOffset": 5468
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 2947,
+                        "endColumn": 68,
+                        "endOffset": 3011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 5473,
+                    "endColumn": 70,
+                    "endOffset": 5539
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2186,
+                        "endColumn": 70,
+                        "endOffset": 2252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 5544,
+                    "endColumn": 69,
+                    "endOffset": 5609
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1973,
+                        "endColumn": 69,
+                        "endOffset": 2038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5614,
+                    "endColumn": 70,
+                    "endOffset": 5680
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2044,
+                        "endColumn": 70,
+                        "endOffset": 2110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5685,
+                    "endColumn": 68,
+                    "endOffset": 5749
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2116,
+                        "endColumn": 68,
+                        "endOffset": 2180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 5754,
+                    "endColumn": 68,
+                    "endOffset": 5818
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3762,
+                        "endColumn": 68,
+                        "endOffset": 3826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5823,
+                    "endColumn": 75,
+                    "endOffset": 5894
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3685,
+                        "endColumn": 75,
+                        "endOffset": 3756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5899,
+                    "endColumn": 73,
+                    "endOffset": 5968
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3460,
+                        "endColumn": 73,
+                        "endOffset": 3529
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5973,
+                    "endColumn": 74,
+                    "endOffset": 6043
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3609,
+                        "endColumn": 74,
+                        "endOffset": 3679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 6048,
+                    "endColumn": 72,
+                    "endOffset": 6116
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 3535,
+                        "endColumn": 72,
+                        "endOffset": 3603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 6121,
+                    "endColumn": 72,
+                    "endOffset": 6189
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3832,
+                        "endColumn": 72,
+                        "endOffset": 3900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 6194,
+                    "endColumn": 66,
+                    "endOffset": 6256
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2391,
+                        "endColumn": 66,
+                        "endOffset": 2453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 6261,
+                    "endColumn": 64,
+                    "endOffset": 6321
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2325,
+                        "endColumn": 64,
+                        "endOffset": 2385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 6326,
+                    "endColumn": 65,
+                    "endOffset": 6387
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2459,
+                        "endColumn": 65,
+                        "endOffset": 2520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 6392,
+                    "endColumn": 63,
+                    "endOffset": 6451
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2260,
+                        "endColumn": 63,
+                        "endOffset": 2319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 6456,
+                    "endColumn": 68,
+                    "endOffset": 6520
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3321,
+                        "endColumn": 68,
+                        "endOffset": 3385
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6525,
+                    "endColumn": 67,
+                    "endOffset": 6588
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3115,
+                        "endColumn": 67,
+                        "endOffset": 3178
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 6593,
+                    "endColumn": 68,
+                    "endOffset": 6657
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3251,
+                        "endColumn": 68,
+                        "endOffset": 3315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6662,
+                    "endColumn": 65,
+                    "endOffset": 6723
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3184,
+                        "endColumn": 65,
+                        "endOffset": 3245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6728,
+                    "endColumn": 65,
+                    "endOffset": 6789
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3391,
+                        "endColumn": 65,
+                        "endOffset": 3452
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6794,
+                    "endColumn": 82,
+                    "endOffset": 6872
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 4758,
+                        "endColumn": 82,
+                        "endOffset": 4836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 6877,
+                    "endColumn": 79,
+                    "endOffset": 6952
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 4514,
+                        "endColumn": 79,
+                        "endOffset": 4589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6957,
+                    "endColumn": 80,
+                    "endOffset": 7033
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 4595,
+                        "endColumn": 80,
+                        "endOffset": 4671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 7038,
+                    "endColumn": 79,
+                    "endOffset": 7113
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 4677,
+                        "endColumn": 79,
+                        "endOffset": 4752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 7118,
+                    "endColumn": 77,
+                    "endOffset": 7191
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 4433,
+                        "endColumn": 77,
+                        "endOffset": 4506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 7196,
+                    "endColumn": 75,
+                    "endOffset": 7267
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 4202,
+                        "endColumn": 75,
+                        "endOffset": 4273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 7272,
+                    "endColumn": 76,
+                    "endOffset": 7344
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 4279,
+                        "endColumn": 76,
+                        "endOffset": 4351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 7349,
+                    "endColumn": 74,
+                    "endOffset": 7419
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 4357,
+                        "endColumn": 74,
+                        "endOffset": 4427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7424,
+                    "endColumn": 78,
+                    "endOffset": 7498
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 5261,
+                        "endColumn": 78,
+                        "endOffset": 5335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 7503,
+                    "endColumn": 72,
+                    "endOffset": 7571
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1743,
+                        "endColumn": 72,
+                        "endOffset": 1811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7576,
+                    "endColumn": 70,
+                    "endOffset": 7642
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1671,
+                        "endColumn": 70,
+                        "endOffset": 1737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 7647,
+                    "endColumn": 71,
+                    "endOffset": 7714
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1817,
+                        "endColumn": 71,
+                        "endOffset": 1884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7719,
+                    "endColumn": 69,
+                    "endOffset": 7784
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1600,
+                        "endColumn": 69,
+                        "endOffset": 1665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7789,
+                    "endColumn": 65,
+                    "endOffset": 7850
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1465,
+                        "endColumn": 65,
+                        "endOffset": 1526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7855,
+                    "endColumn": 63,
+                    "endOffset": 7914
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1400,
+                        "endColumn": 63,
+                        "endOffset": 1459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7919,
+                    "endColumn": 64,
+                    "endOffset": 7979
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1532,
+                        "endColumn": 64,
+                        "endOffset": 1592
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7984,
+                    "endColumn": 62,
+                    "endOffset": 8042
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1336,
+                        "endColumn": 62,
+                        "endOffset": 1394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 8047,
+                    "endColumn": 71,
+                    "endOffset": 8114
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 5114,
+                        "endColumn": 71,
+                        "endOffset": 5181
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 8119,
+                    "endColumn": 70,
+                    "endOffset": 8185
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 5187,
+                        "endColumn": 70,
+                        "endOffset": 5253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8190,
+                    "endColumn": 66,
+                    "endOffset": 8252
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 5044,
+                        "endColumn": 66,
+                        "endOffset": 5106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8257,
+                    "endColumn": 64,
+                    "endOffset": 8317
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 4846,
+                        "endColumn": 64,
+                        "endOffset": 4906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8322,
+                    "endColumn": 65,
+                    "endOffset": 8383
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 4977,
+                        "endColumn": 65,
+                        "endOffset": 5038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8388,
+                    "endColumn": 63,
+                    "endOffset": 8447
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 4912,
+                        "endColumn": 63,
+                        "endOffset": 4971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8452,
+                    "endColumn": 66,
+                    "endOffset": 8514
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 8294,
+                        "endColumn": 66,
+                        "endOffset": 8356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 8519,
+                    "endColumn": 67,
+                    "endOffset": 8582
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 170,
+                        "startColumn": 4,
+                        "startOffset": 8362,
+                        "endColumn": 67,
+                        "endOffset": 8425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8587,
+                    "endColumn": 49,
+                    "endOffset": 8632
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 168,
+                        "startColumn": 4,
+                        "startOffset": 8243,
+                        "endColumn": 49,
+                        "endOffset": 8288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8637,
+                    "endColumn": 60,
+                    "endOffset": 8693
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 8431,
+                        "endColumn": 60,
+                        "endOffset": 8487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8698,
+                    "endColumn": 48,
+                    "endOffset": 8742
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 5364,
+                        "endColumn": 48,
+                        "endOffset": 5408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8747,
+                    "endColumn": 60,
+                    "endOffset": 8803
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 5567,
+                        "endColumn": 60,
+                        "endOffset": 5623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 8808,
+                    "endColumn": 92,
+                    "endOffset": 8896
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 5473,
+                        "endColumn": 92,
+                        "endOffset": 5561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 8901,
+                    "endColumn": 93,
+                    "endOffset": 8990
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 5629,
+                        "endColumn": 93,
+                        "endOffset": 5718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 8995,
+                    "endColumn": 57,
+                    "endOffset": 9048
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 5414,
+                        "endColumn": 57,
+                        "endOffset": 5467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 9053,
+                    "endColumn": 52,
+                    "endOffset": 9101
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 5803,
+                        "endColumn": 52,
+                        "endOffset": 5851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 9106,
+                    "endColumn": 51,
+                    "endOffset": 9153
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 5750,
+                        "endColumn": 51,
+                        "endOffset": 5797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 9158,
+                    "endColumn": 58,
+                    "endOffset": 9212
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 9217,
+                    "endColumn": 56,
+                    "endOffset": 9269
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 56,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 9274,
+                    "endColumn": 53,
+                    "endOffset": 9323
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 53,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 9328,
+                    "endColumn": 54,
+                    "endOffset": 9378
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 155,
+                        "startColumn": 4,
+                        "startOffset": 7721,
+                        "endColumn": 54,
+                        "endOffset": 7771
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 9383,
+                    "endColumn": 52,
+                    "endOffset": 9431
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 153,
+                        "startColumn": 4,
+                        "startOffset": 7612,
+                        "endColumn": 52,
+                        "endOffset": 7660
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 9436,
+                    "endColumn": 53,
+                    "endOffset": 9485
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 154,
+                        "startColumn": 4,
+                        "startOffset": 7666,
+                        "endColumn": 53,
+                        "endOffset": 7715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 9490,
+                    "endColumn": 51,
+                    "endOffset": 9537
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 7777,
+                        "endColumn": 51,
+                        "endOffset": 7824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 9542,
+                    "endColumn": 54,
+                    "endOffset": 9592
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 6916,
+                        "endColumn": 54,
+                        "endOffset": 6966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 9597,
+                    "endColumn": 52,
+                    "endOffset": 9645
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 6807,
+                        "endColumn": 52,
+                        "endOffset": 6855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 9650,
+                    "endColumn": 53,
+                    "endOffset": 9699
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 6861,
+                        "endColumn": 53,
+                        "endOffset": 6910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 9704,
+                    "endColumn": 51,
+                    "endOffset": 9751
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 6972,
+                        "endColumn": 51,
+                        "endOffset": 7019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 9756,
+                    "endColumn": 60,
+                    "endOffset": 9812
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 143,
+                        "startColumn": 4,
+                        "startOffset": 7167,
+                        "endColumn": 60,
+                        "endOffset": 7223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 9817,
+                    "endColumn": 58,
+                    "endOffset": 9871
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 141,
+                        "startColumn": 4,
+                        "startOffset": 7046,
+                        "endColumn": 58,
+                        "endOffset": 7100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 9876,
+                    "endColumn": 59,
+                    "endOffset": 9931
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 142,
+                        "startColumn": 4,
+                        "startOffset": 7106,
+                        "endColumn": 59,
+                        "endOffset": 7161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 9936,
+                    "endColumn": 57,
+                    "endOffset": 9989
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 144,
+                        "startColumn": 4,
+                        "startOffset": 7229,
+                        "endColumn": 57,
+                        "endOffset": 7282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 9994,
+                    "endColumn": 68,
+                    "endOffset": 10058
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 149,
+                        "startColumn": 4,
+                        "startOffset": 7454,
+                        "endColumn": 68,
+                        "endOffset": 7518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 10063,
+                    "endColumn": 66,
+                    "endOffset": 10125
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 147,
+                        "startColumn": 4,
+                        "startOffset": 7317,
+                        "endColumn": 66,
+                        "endOffset": 7379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 10130,
+                    "endColumn": 67,
+                    "endOffset": 10193
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 148,
+                        "startColumn": 4,
+                        "startOffset": 7385,
+                        "endColumn": 67,
+                        "endOffset": 7448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 138,
+                    "startColumn": 4,
+                    "startOffset": 10198,
+                    "endColumn": 65,
+                    "endOffset": 10259
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 150,
+                        "startColumn": 4,
+                        "startOffset": 7524,
+                        "endColumn": 65,
+                        "endOffset": 7585
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 10264,
+                    "endColumn": 64,
+                    "endOffset": 10324
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\integers.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 64,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 10329,
+                    "endColumn": 63,
+                    "endOffset": 10388
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\integers_undo.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 887,
+                        "endColumn": 63,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 141,
+                    "startColumn": 4,
+                    "startOffset": 10393,
+                    "endLine": 144,
+                    "endColumn": 14,
+                    "endOffset": 10552
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1209,
+                        "endLine": 35,
+                        "endColumn": 14,
+                        "endOffset": 1371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 10557,
+                    "endLine": 148,
+                    "endColumn": 14,
+                    "endOffset": 10715
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 998,
+                        "endLine": 29,
+                        "endColumn": 14,
+                        "endOffset": 1159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 10720,
+                    "endColumn": 68,
+                    "endOffset": 10784
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1408,
+                        "endColumn": 68,
+                        "endOffset": 1472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 10789,
+                    "endColumn": 78,
+                    "endOffset": 10863
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 78,
+                        "endOffset": 1552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 10868,
+                    "endColumn": 61,
+                    "endOffset": 10925
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\fonts.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 949,
+                        "endColumn": 61,
+                        "endOffset": 1006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 152,
+                    "startColumn": 4,
+                    "startOffset": 10930,
+                    "endColumn": 62,
+                    "endOffset": 10988
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\fonts.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 62,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 153,
+                    "startColumn": 4,
+                    "startOffset": 10993,
+                    "endColumn": 53,
+                    "endOffset": 11042
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 882,
+                        "endColumn": 53,
+                        "endOffset": 931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 154,
+                    "startColumn": 4,
+                    "startOffset": 11047,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 11456
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 11461,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 11520
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 11525,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 11646
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 11651,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 11774
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.2.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 11779,
+                    "endLine": 171,
+                    "endColumn": 12,
+                    "endOffset": 11855
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 11860,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 12421
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 9772,
+                        "endLine": 209,
+                        "endColumn": 12,
+                        "endOffset": 10340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 12426,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 13009
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 8470,
+                        "endLine": 189,
+                        "endColumn": 12,
+                        "endOffset": 9060
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 13014,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 13548
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 286,
+                        "startColumn": 4,
+                        "startOffset": 14890,
+                        "endLine": 293,
+                        "endColumn": 12,
+                        "endOffset": 15431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 13553,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 14271
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 5867,
+                        "endLine": 135,
+                        "endColumn": 12,
+                        "endOffset": 6596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 14276,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 14415
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 7842,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 7983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 14420,
+                    "endLine": 213,
+                    "endColumn": 12,
+                    "endOffset": 14478
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 171,
+                        "startColumn": 4,
+                        "startOffset": 8204,
+                        "endLine": 173,
+                        "endColumn": 12,
+                        "endOffset": 8264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 14483,
+                    "endLine": 216,
+                    "endColumn": 12,
+                    "endOffset": 14634
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 152,
+                        "startColumn": 4,
+                        "startOffset": 7460,
+                        "endLine": 154,
+                        "endColumn": 12,
+                        "endOffset": 7614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 14639,
+                    "endLine": 219,
+                    "endColumn": 12,
+                    "endOffset": 14692
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 5569,
+                        "endLine": 115,
+                        "endColumn": 12,
+                        "endOffset": 5624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 14697,
+                    "endLine": 222,
+                    "endColumn": 12,
+                    "endOffset": 14751
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3721,
+                        "endLine": 80,
+                        "endColumn": 12,
+                        "endOffset": 3777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 14756,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 15196
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2479,
+                        "endLine": 61,
+                        "endColumn": 12,
+                        "endOffset": 2924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 15201,
+                    "endLine": 237,
+                    "endColumn": 12,
+                    "endOffset": 15884
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 4040,
+                        "endLine": 99,
+                        "endColumn": 12,
+                        "endOffset": 4731
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 15889,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 16094
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 270,
+                        "startColumn": 4,
+                        "startOffset": 13894,
+                        "endLine": 273,
+                        "endColumn": 12,
+                        "endOffset": 14102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 16099,
+                    "endLine": 248,
+                    "endColumn": 12,
+                    "endOffset": 16598
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 11010,
+                        "endLine": 229,
+                        "endColumn": 12,
+                        "endOffset": 11515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 16603,
+                    "endLine": 251,
+                    "endColumn": 12,
+                    "endOffset": 16732
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 232,
+                        "startColumn": 4,
+                        "startOffset": 11565,
+                        "endLine": 234,
+                        "endColumn": 12,
+                        "endOffset": 11696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 16737,
+                    "endLine": 259,
+                    "endColumn": 12,
+                    "endOffset": 17331
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 245,
+                        "startColumn": 4,
+                        "startOffset": 12323,
+                        "endLine": 252,
+                        "endColumn": 12,
+                        "endOffset": 12924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 17336,
+                    "endLine": 262,
+                    "endColumn": 12,
+                    "endOffset": 17487
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 255,
+                        "startColumn": 4,
+                        "startOffset": 12999,
+                        "endLine": 257,
+                        "endColumn": 12,
+                        "endOffset": 13152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 17492,
+                    "endLine": 265,
+                    "endColumn": 12,
+                    "endOffset": 17575
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 935,
+                        "endLine": 26,
+                        "endColumn": 12,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 17580,
+                    "endLine": 272,
+                    "endColumn": 12,
+                    "endOffset": 18064
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 212,
+                        "startColumn": 4,
+                        "startOffset": 10399,
+                        "endLine": 218,
+                        "endColumn": 12,
+                        "endOffset": 10889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 18069,
+                    "endLine": 279,
+                    "endColumn": 12,
+                    "endOffset": 18451
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 322,
+                        "startColumn": 4,
+                        "startOffset": 16804,
+                        "endLine": 328,
+                        "endColumn": 12,
+                        "endOffset": 17192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 18456,
+                    "endLine": 283,
+                    "endColumn": 12,
+                    "endOffset": 18648
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 330,
+                        "startColumn": 4,
+                        "startOffset": 17200,
+                        "endLine": 333,
+                        "endColumn": 12,
+                        "endOffset": 17395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 18653,
+                    "endLine": 291,
+                    "endColumn": 12,
+                    "endOffset": 19255
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 192,
+                        "startColumn": 4,
+                        "startOffset": 9103,
+                        "endLine": 199,
+                        "endColumn": 12,
+                        "endOffset": 9713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 19260,
+                    "endLine": 297,
+                    "endColumn": 12,
+                    "endOffset": 19757
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 4,
+                        "startOffset": 17595,
+                        "endLine": 347,
+                        "endColumn": 12,
+                        "endOffset": 18098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 19762,
+                    "endLine": 305,
+                    "endColumn": 12,
+                    "endOffset": 20326
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 296,
+                        "startColumn": 4,
+                        "startOffset": 15501,
+                        "endLine": 303,
+                        "endColumn": 12,
+                        "endOffset": 16072
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 20331,
+                    "endLine": 318,
+                    "endColumn": 12,
+                    "endOffset": 21127
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 6604,
+                        "endLine": 149,
+                        "endColumn": 12,
+                        "endOffset": 7412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 21132,
+                    "endLine": 321,
+                    "endColumn": 12,
+                    "endOffset": 21296
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 165,
+                        "startColumn": 4,
+                        "startOffset": 7991,
+                        "endLine": 167,
+                        "endColumn": 12,
+                        "endOffset": 8157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 21301,
+                    "endLine": 324,
+                    "endColumn": 12,
+                    "endOffset": 21366
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 175,
+                        "startColumn": 4,
+                        "startOffset": 8272,
+                        "endLine": 177,
+                        "endColumn": 12,
+                        "endOffset": 8339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 21371,
+                    "endLine": 327,
+                    "endColumn": 12,
+                    "endOffset": 21530
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 156,
+                        "startColumn": 4,
+                        "startOffset": 7622,
+                        "endLine": 158,
+                        "endColumn": 12,
+                        "endOffset": 7784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 21535,
+                    "endLine": 331,
+                    "endColumn": 12,
+                    "endOffset": 21722
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 5634,
+                        "endLine": 121,
+                        "endColumn": 12,
+                        "endOffset": 5824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 21727,
+                    "endLine": 334,
+                    "endColumn": 12,
+                    "endOffset": 21788
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3785,
+                        "endLine": 84,
+                        "endColumn": 12,
+                        "endOffset": 3848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 335,
+                    "startColumn": 4,
+                    "startOffset": 21793,
+                    "endLine": 337,
+                    "endColumn": 12,
+                    "endOffset": 21914
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 3856,
+                        "endLine": 88,
+                        "endColumn": 12,
+                        "endOffset": 3979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 21919,
+                    "endLine": 343,
+                    "endColumn": 12,
+                    "endOffset": 22358
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 2932,
+                        "endLine": 68,
+                        "endColumn": 12,
+                        "endOffset": 3377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 22363,
+                    "endLine": 349,
+                    "endColumn": 12,
+                    "endOffset": 22641
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3385,
+                        "endLine": 75,
+                        "endColumn": 12,
+                        "endOffset": 3669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 22646,
+                    "endLine": 358,
+                    "endColumn": 12,
+                    "endOffset": 23371
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 4739,
+                        "endLine": 109,
+                        "endColumn": 12,
+                        "endOffset": 5473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 23376,
+                    "endLine": 367,
+                    "endColumn": 12,
+                    "endOffset": 24077
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 14110,
+                        "endLine": 283,
+                        "endColumn": 12,
+                        "endOffset": 14820
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 24082,
+                    "endLine": 374,
+                    "endColumn": 12,
+                    "endOffset": 24626
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 11704,
+                        "endLine": 242,
+                        "endColumn": 12,
+                        "endOffset": 12255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 24631,
+                    "endLine": 382,
+                    "endColumn": 12,
+                    "endOffset": 25263
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 259,
+                        "startColumn": 4,
+                        "startOffset": 13160,
+                        "endLine": 266,
+                        "endColumn": 12,
+                        "endOffset": 13799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 25268,
+                    "endLine": 385,
+                    "endColumn": 12,
+                    "endOffset": 25332
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 335,
+                        "startColumn": 4,
+                        "startOffset": 17403,
+                        "endLine": 337,
+                        "endColumn": 12,
+                        "endOffset": 17469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 25337,
+                    "endLine": 391,
+                    "endColumn": 12,
+                    "endOffset": 25661
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2053,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 2382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 25666,
+                    "endLine": 397,
+                    "endColumn": 12,
+                    "endOffset": 26082
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1589,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 26087,
+                    "endColumn": 48,
+                    "endOffset": 26131
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 320,
+                        "startColumn": 4,
+                        "startOffset": 16745,
+                        "endColumn": 55,
+                        "endOffset": 16796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 26136,
+                    "endLine": 404,
+                    "endColumn": 12,
+                    "endOffset": 26553
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 405,
+                    "startColumn": 4,
+                    "startOffset": 26558,
+                    "endLine": 411,
+                    "endColumn": 12,
+                    "endOffset": 27000
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 435,
+                        "startColumn": 4,
+                        "startOffset": 21632,
+                        "endLine": 441,
+                        "endColumn": 12,
+                        "endOffset": 22080
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 412,
+                    "startColumn": 4,
+                    "startOffset": 27005,
+                    "endLine": 423,
+                    "endColumn": 12,
+                    "endOffset": 27754
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 443,
+                        "startColumn": 4,
+                        "startOffset": 22088,
+                        "endLine": 454,
+                        "endColumn": 12,
+                        "endOffset": 22848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 424,
+                    "startColumn": 4,
+                    "startOffset": 27759,
+                    "endLine": 430,
+                    "endColumn": 12,
+                    "endOffset": 28129
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 307,
+                        "startColumn": 4,
+                        "startOffset": 16170,
+                        "endLine": 313,
+                        "endColumn": 12,
+                        "endOffset": 16546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 431,
+                    "startColumn": 4,
+                    "startOffset": 28134,
+                    "endLine": 434,
+                    "endColumn": 12,
+                    "endOffset": 28314
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 4,
+                        "startOffset": 16554,
+                        "endLine": 318,
+                        "endColumn": 12,
+                        "endOffset": 16737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 435,
+                    "startColumn": 4,
+                    "startOffset": 28319,
+                    "endLine": 443,
+                    "endColumn": 12,
+                    "endOffset": 28937
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 413,
+                        "startColumn": 4,
+                        "startOffset": 20297,
+                        "endLine": 421,
+                        "endColumn": 12,
+                        "endOffset": 20923
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 444,
+                    "startColumn": 4,
+                    "startOffset": 28942,
+                    "endLine": 449,
+                    "endColumn": 12,
+                    "endOffset": 29295
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 398,
+                        "startColumn": 4,
+                        "startOffset": 19519,
+                        "endLine": 403,
+                        "endColumn": 12,
+                        "endOffset": 19877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 450,
+                    "startColumn": 4,
+                    "startOffset": 29300,
+                    "endLine": 455,
+                    "endColumn": 12,
+                    "endOffset": 29653
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 4,
+                        "startOffset": 18194,
+                        "endLine": 357,
+                        "endColumn": 12,
+                        "endOffset": 18552
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 456,
+                    "startColumn": 4,
+                    "startOffset": 29658,
+                    "endLine": 458,
+                    "endColumn": 12,
+                    "endOffset": 29701
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 360,
+                        "startColumn": 4,
+                        "startOffset": 18584,
+                        "endLine": 362,
+                        "endColumn": 12,
+                        "endOffset": 18629
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 459,
+                    "startColumn": 4,
+                    "startOffset": 29706,
+                    "endLine": 461,
+                    "endColumn": 12,
+                    "endOffset": 29754
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 366,
+                        "startColumn": 4,
+                        "startOffset": 18668,
+                        "endLine": 368,
+                        "endColumn": 12,
+                        "endOffset": 18718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 462,
+                    "startColumn": 4,
+                    "startOffset": 29759,
+                    "endLine": 475,
+                    "endColumn": 12,
+                    "endOffset": 30514
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles_undo.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 942,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 476,
+                    "startColumn": 4,
+                    "startOffset": 30519,
+                    "endLine": 489,
+                    "endColumn": 12,
+                    "endOffset": 31306
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles_undo.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2274,
+                        "endLine": 62,
+                        "endColumn": 12,
+                        "endOffset": 3074
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 490,
+                    "startColumn": 4,
+                    "startOffset": 31311,
+                    "endLine": 501,
+                    "endColumn": 12,
+                    "endOffset": 31990
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles_undo.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 4462,
+                        "endLine": 102,
+                        "endColumn": 12,
+                        "endOffset": 5152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 502,
+                    "startColumn": 4,
+                    "startOffset": 31995,
+                    "endLine": 517,
+                    "endColumn": 12,
+                    "endOffset": 32914
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles_undo.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 6672,
+                        "endLine": 148,
+                        "endColumn": 12,
+                        "endOffset": 7606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 518,
+                    "startColumn": 4,
+                    "startOffset": 32919,
+                    "endLine": 528,
+                    "endColumn": 12,
+                    "endOffset": 33457
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles_undo.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1718,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 2266
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 529,
+                    "startColumn": 4,
+                    "startOffset": 33462,
+                    "endLine": 538,
+                    "endColumn": 12,
+                    "endOffset": 33977
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles_undo.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3930,
+                        "endLine": 89,
+                        "endColumn": 12,
+                        "endOffset": 4454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 539,
+                    "startColumn": 4,
+                    "startOffset": 33982,
+                    "endLine": 550,
+                    "endColumn": 12,
+                    "endOffset": 34622
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles_undo.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 6013,
+                        "endLine": 131,
+                        "endColumn": 12,
+                        "endOffset": 6664
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 551,
+                    "startColumn": 4,
+                    "startOffset": 34627,
+                    "endLine": 565,
+                    "endColumn": 12,
+                    "endOffset": 35453
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles_undo.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3082,
+                        "endLine": 78,
+                        "endColumn": 12,
+                        "endOffset": 3922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 566,
+                    "startColumn": 4,
+                    "startOffset": 35458,
+                    "endLine": 580,
+                    "endColumn": 12,
+                    "endOffset": 36289
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles_undo.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 5160,
+                        "endLine": 118,
+                        "endColumn": 12,
+                        "endOffset": 6005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 581,
+                    "startColumn": 4,
+                    "startOffset": 36294,
+                    "endLine": 589,
+                    "endColumn": 12,
+                    "endOffset": 36933
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 423,
+                        "startColumn": 4,
+                        "startOffset": 20931,
+                        "endLine": 431,
+                        "endColumn": 12,
+                        "endOffset": 21578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 590,
+                    "startColumn": 4,
+                    "startOffset": 36938,
+                    "endLine": 595,
+                    "endColumn": 12,
+                    "endOffset": 37298
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 405,
+                        "startColumn": 4,
+                        "startOffset": 19885,
+                        "endLine": 410,
+                        "endColumn": 12,
+                        "endOffset": 20250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 596,
+                    "startColumn": 4,
+                    "startOffset": 37303,
+                    "endLine": 601,
+                    "endColumn": 12,
+                    "endOffset": 37711
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 376,
+                        "startColumn": 4,
+                        "startOffset": 18909,
+                        "endLine": 381,
+                        "endColumn": 12,
+                        "endOffset": 19322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 602,
+                    "startColumn": 4,
+                    "startOffset": 37716,
+                    "endLine": 604,
+                    "endColumn": 12,
+                    "endOffset": 37766
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 384,
+                        "startColumn": 4,
+                        "startOffset": 19354,
+                        "endLine": 386,
+                        "endColumn": 12,
+                        "endOffset": 19407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 605,
+                    "startColumn": 4,
+                    "startOffset": 37771,
+                    "endLine": 607,
+                    "endColumn": 12,
+                    "endOffset": 37826
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 390,
+                        "startColumn": 4,
+                        "startOffset": 19446,
+                        "endLine": 392,
+                        "endColumn": 12,
+                        "endOffset": 19503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 608,
+                    "startColumn": 4,
+                    "startOffset": 37831,
+                    "endLine": 611,
+                    "endColumn": 12,
+                    "endOffset": 38001
+                },
+                "from": {
+                    "file": "C:\\Users\\008\\cop290.assn2.complaints\\library-core\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 371,
+                        "startColumn": 4,
+                        "startOffset": 18728,
+                        "endLine": 374,
+                        "endColumn": 12,
+                        "endOffset": 18901
+                    }
+                }
+            }
+        ]
+    }
+]
